@@ -84,7 +84,7 @@ Join us! Pull requests, code, documentation are all welcome.
 
 #### Bitcoin address
 
-[![address](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data= 3CVpeDSsauNRWiWeXWRrgc5eFUpujtN7Wo&qzone=1&margin=0&size=200x200&ecc=L)] (http://srv1.yogh.io/#addr:id:3CVpeDSsauNRWiWeXWRrgc5eFUpujtN7Wo)
+[![address](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=3CVpeDSsauNRWiWeXWRrgc5eFUpujtN7Wo&qzone=1&margin=0&size=200x200&ecc=L)] (http://srv1.yogh.io/#addr:id:3CVpeDSsauNRWiWeXWRrgc5eFUpujtN7Wo)
 
 #### Payment code (BIP47)
 
