@@ -36,7 +36,7 @@ We are interested in assisting with the development of any alternative paths for
 - BLE
 - chat apps (especially encrypted)
 
-Projects can one or more methods for enabling an alternative route to *pushTx*.
+Projects can use one or more methods for enabling an alternative route to *pushTx*.
 
 All submitted projects will be considered for support by and possible inclusion in [Samourai Wallet](https://samouraiwallet.com) which now includes basic hooks for exporting signed raw bitcoin transactions hex code.  
  
