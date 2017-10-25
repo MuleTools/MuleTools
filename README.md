@@ -46,27 +46,27 @@ All submitted projects will be considered for support by and possible inclusion 
 [+1(518)255-8463](tel:0015182558463)
 
 ### Obtain signed raw hex transaction from a Trezor:
-[instructions] (http://archive.is/iWTdV) 
+[instructions](http://archive.is/iWTdV) 
 
 ### Obtain signed raw hex transaction from Samourai Wallet:
-Copy and paste signed raw hex transaction or scan/share QR code as of Samourai v0.96. [announcement:] (https://twitter.com/SamouraiWallet/status/922074806467661826)
+Copy and paste signed raw hex transaction or scan/share QR code as of Samourai v0.96. [announcement:](https://twitter.com/SamouraiWallet/status/922074806467661826)
 
 
 ## III. Projects
 
 ### SMSPushTx:
-[fork] (https://github.com/muletools/smspushtx)
+[fork](https://github.com/muletools/smspushtx)
 
 ### Send bitcoin via APRS:
-[fork] (https://github.com/muletools/bitcoin_aprs)
+[fork](https://github.com/muletools/bitcoin_aprs)
 
 ## IV. Articles
 
-Physical broadcasts are discussed in [Advances in Distributed Security] (http://nakamotoinstitute.org/advances-in-distributed-security/) by Nick Szabo.
+Physical broadcasts are discussed in [Advances in Distributed Security](http://nakamotoinstitute.org/advances-in-distributed-security/) by Nick Szabo.
 
-[Hijacking Bitcoin: Routing Attacks on Cryptocurrencies] (https://btc-hijack.ethz.ch).
+[Hijacking Bitcoin: Routing Attacks on Cryptocurrencies](https://btc-hijack.ethz.ch).
 
-[Carrier Pigeon Faster Than Broadband Internet] (https://m.phys.org/news/2009-09-carrier-pigeon-faster-broadband-internet.html) OpenDime delivered via carrier pigeon? ;)
+[Carrier Pigeon Faster Than Broadband Internet](https://m.phys.org/news/2009-09-carrier-pigeon-faster-broadband-internet.html) OpenDime delivered via carrier pigeon? ;)
 
 ## V. Submissions
 
@@ -84,11 +84,11 @@ Join us! Pull requests, code, documentation are all welcome.
 
 #### Bitcoin address
 
-[![address](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=3CVpeDSsauNRWiWeXWRrgc5eFUpujtN7Wo&qzone=1&margin=0&size=200x200&ecc=L)] (http://srv1.yogh.io/#addr:id:3CVpeDSsauNRWiWeXWRrgc5eFUpujtN7Wo)
+[![address](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=3CVpeDSsauNRWiWeXWRrgc5eFUpujtN7Wo&qzone=1&margin=0&size=200x200&ecc=L)](http://srv1.yogh.io/#addr:id:3CVpeDSsauNRWiWeXWRrgc5eFUpujtN7Wo)
 
 #### Payment code (BIP47)
 
-[![BIP47 payment code](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=PM8TJMeBnYUBZd9ZbTxSLJQgLj3ucKJ2tfnvBJmq55q6ictCiNdcAcqmk7syurrUr6JuwxSA2ereAXmd5w1Ljd3UGwsopj1EJsddEHq6feRH7C6ujACY&qzone=1&margin=0&size=200x200&ecc=L)] (https://paymentcode.io/+samouraiwallet)
+[![BIP47 payment code](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=PM8TJMeBnYUBZd9ZbTxSLJQgLj3ucKJ2tfnvBJmq55q6ictCiNdcAcqmk7syurrUr6JuwxSA2ereAXmd5w1Ljd3UGwsopj1EJsddEHq6feRH7C6ujACY&qzone=1&margin=0&size=200x200&ecc=L)](https://paymentcode.io/+samouraiwallet)
 
 ### Dev contact
 
