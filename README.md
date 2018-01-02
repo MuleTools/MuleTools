@@ -21,7 +21,7 @@ Inspired by [Blockstream](https://blockstream.com)'s [Blockstream Satellite](htt
 
 ### Overview
 
-The bitcoin blockchain is the longest running, most secure, and most valuable cryptocurrency blockchain. As such, it is under continual attack, from actors outside and even from within its own ecosystem. The purpose of the projects and tools stored in these repositories is to make the bitcoin network more resilient and capable of re-routing around censorship and hostile actors.
+The bitcoin blockchain is the longest running, most secure, and most valuable cryptocurrency blockchain. As such, it is under continual attack, from actors outside and even from within its own ecosystem (ie. 2x, bcash). The purpose of the projects and tools stored in these repositories is to make the bitcoin network more resilient and capable of re-routing around censorship and hostile actors.
 
 We are interested in assisting with the development of any alternative paths for bitcoin *pushTx* including but not exclusively limited to:
 
