@@ -56,11 +56,12 @@ Copy and paste signed raw hex transaction or scan/share QR code as of Samourai v
 
 ## III. Projects
 
-### SMSPushTx:
-[fork](https://github.com/muletools/smspushtx)
+### SMSPushTx: [fork](https://github.com/muletools/smspushtx)
 
-### Send bitcoin via APRS:
-[fork](https://github.com/muletools/bitcoin_aprs)
+### Pony Direct (use any Android device as SMS relay): [repo](https://github.com/MuleTools/PonyDirect)
+
+### Send bitcoin via APRS: [fork](https://github.com/muletools/bitcoin_aprs)
+
 
 ## IV. Articles
 
