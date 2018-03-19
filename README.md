@@ -62,6 +62,7 @@ Copy and paste signed raw hex transaction or scan/share QR code as of Samourai v
 
 ### Send bitcoin via APRS: [fork](https://github.com/muletools/bitcoin_aprs)
 
+### Message in a Bottle: includes incentive to broadcast [concept](http://archive.is/D8jWX)
 
 ## IV. Articles
 
