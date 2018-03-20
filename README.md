@@ -21,7 +21,7 @@ Inspired by [Blockstream](https://blockstream.com)'s [Blockstream Satellite](htt
 
 ### Overview
 
-The bitcoin blockchain is the longest running, most secure, and most valuable cryptocurrency blockchain. As such, it is under continual attack, from actors outside and even from within its own ecosystem. The purpose of the projects and tools stored in these repositories is to make the bitcoin network more resilient and capable of re-routing around censorship and hostile actors.
+The bitcoin blockchain is the longest running, most secure, and most valuable cryptocurrency blockchain. As such, it is under continual attack, from actors outside and even from within its own ecosystem (ie. 2x, bcash). The purpose of the projects and tools stored in these repositories is to make the bitcoin network more resilient and capable of re-routing around censorship and hostile actors.
 
 We are interested in assisting with the development of any alternative paths for bitcoin *pushTx* including but not exclusively limited to:
 
@@ -56,11 +56,13 @@ Copy and paste signed raw hex transaction or scan/share QR code as of Samourai v
 
 ## III. Projects
 
-### SMSPushTx:
-[fork](https://github.com/muletools/smspushtx)
+### SMSPushTx: [fork](https://github.com/muletools/smspushtx)
 
-### Send bitcoin via APRS:
-[fork](https://github.com/muletools/bitcoin_aprs)
+### Pony Direct (use any Android device as SMS relay): [repo](https://github.com/MuleTools/PonyDirect)
+
+### Send bitcoin via APRS: [fork](https://github.com/muletools/bitcoin_aprs)
+
+### Message in a Bottle (includes incentive to broadcast): [concept](http://archive.is/D8jWX)
 
 ## IV. Articles
 
