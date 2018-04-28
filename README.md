@@ -92,7 +92,7 @@ Join us! Pull requests, code, documentation are all welcome.
 
 #### Payment code (BIP47)
 
-[![BIP47 payment code](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=PM8TJMeBnYUBZd9ZbTxSLJQgLj3ucKJ2tfnvBJmq55q6ictCiNdcAcqmk7syurrUr6JuwxSA2ereAXmd5w1Ljd3UGwsopj1EJsddEHq6feRH7C6ujACY&qzone=1&margin=0&size=200x200&ecc=L)](https://paymentcode.io/+samouraiwallet)
+[![BIP47 payment code](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=PM8TJVzLGqWR3dtxZYaTWn3xJUop3QP3itR4eYzX7XvV5uAfctEEuHhKNo3zCcqfAbneMhyfKkCthGv5werVbwLruhZyYNTxqbCrZkNNd2pPJA2e2iAh&qzone=1&margin=0&size=200x200&ecc=L)](https://paynym.is/+samouraiwallet)
 
 ### Dev contact
 
