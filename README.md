@@ -64,6 +64,14 @@ Copy and paste signed raw hex transaction or scan/share QR code as of Samourai v
 
 ### Message in a Bottle (includes incentive to broadcast): [concept](http://archive.is/D8jWX)
 
+## txTenna: [repo](https://github.com/MuleTools/txTenna)
+
+## txTenna-server: [repo](https://github.com/MuleTools/txTenna-server)
+
+## txtenna-python: [fork](https://github.com/remyers/txtenna-python)
+
+## UTEchoes: [fork](https://github.com/M-D-Br/UTEchoes)
+
 ## IV. Articles
 
 Physical broadcasts are discussed in [Advances in Distributed Security](http://nakamotoinstitute.org/advances-in-distributed-security/) by Nick Szabo.
@@ -97,3 +105,7 @@ Join us! Pull requests, code, documentation are all welcome.
 ### Dev contact
 
 [PGP](http://pgp.mit.edu/pks/lookup?op=get&search=0x72B5BACDFEDF39D7)
+
+### Discussion Forums
+
+[Telegram Group](https://t.me/muletools)
